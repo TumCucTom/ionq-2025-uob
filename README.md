@@ -1,9 +1,11 @@
-# 2025-IonQ
+#Team IsamBits solution to IonQ's challenge at iQuHack
 
-Problem discription: [IonQuHack2025_mosh-pit_max-cut.pdf](IonQuHack2025_mosh-pit_max-cut.pdf)
+- [Max-cut using varQITE](1-IonQuHack2025.ipynb)
+- [Constraint that both partitions must have equal cardinality](2-IonQuHack2025.ipynb)
+- [Constraint that both paritiions must be connected](3-IonQuHack2025.ipynb)
 
-# Open in qBraid
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/iQuHACK/2025-IonQ)
+See the:
+- build_ansatz()
+- build_maxcut_hamiltonian()
 
-# Open in Colab
-https://colab.research.google.com/github/iQuHACK/2025-IonQ
+for the majority of changes and below for the QP (or MIQP) to hamiltonian derivations:
