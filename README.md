@@ -1,4 +1,4 @@
-# Team IsamBits solutions to IonQ's challenge at iQuHack
+# Team IsamBits' solutions to IonQ's challenge at iQuHack
 
 - [Max-cut using varQITE](1-IonQuHack2025.ipynb)
 - [Constraint that both partitions must have equal cardinality](2-IonQuHack2025.ipynb)
